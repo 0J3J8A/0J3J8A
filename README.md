@@ -45,7 +45,7 @@ Time management and goal-oriented performance
 
 ❤️Let's Connect!
 
-Here is my [LinkedIn](www.linkedin.com/in/juan-jose-aguirre-9b2a1b350) profile.
+Here is my [LinkedIn](https://www.linkedin.com/in/juan-jose-aguirre-9b2a1b350) profile.
 
 
 Feel free to explore my repositories, contribute to projects, or reach out if you'd like to collaborate or chat. Happy coding! 🚀
