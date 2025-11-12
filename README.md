@@ -43,9 +43,16 @@ Adaptability and teamwork in collaborative environments
 Attention to detail and a focus on quality
 Time management and goal-oriented performance
 
+📊 GitHub Stats
+
+![Juan José Aguirre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0J3J8A&show_icons=true&hide_title=true&hide=prs)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0J3J8A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ❤️Let's Connect!
 
 Here is my [LinkedIn](https://www.linkedin.com/in/juan-jose-aguirre-9b2a1b350) profile.
+
 
 
 Feel free to explore my repositories, contribute to projects, or reach out if you'd like to collaborate or chat. Happy coding! 🚀
