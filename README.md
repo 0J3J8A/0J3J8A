@@ -7,6 +7,7 @@ I'm Juan Jose Aguirre, a Software Development student at Brigham Young Universit
 
 I'm currently learning SQL, data analysis, and exploring more advanced concepts in Python, JavaScript, HTML, CSS, C#, and SQL.
 My goal is to become a full-stack developer, apply my creative problem-solving skills to real-world projects, and ultimately secure a role where I can grow and contribute to a team.
+
 Fun fact: My GitHub username, "0J3J8A," is a bit of a mystery. Here's the story:
    - "JJA" comes from my name.
    - The "38" is because I was born on the 19th, and my mom was also born on the 19th, so 19 + 19 = 38.
@@ -29,19 +30,33 @@ During two years of volunteer service, I interacted with people from all walks o
 
 👨‍💻Technologies and Tools
 
-Proficient in
-Languages: Python, HTML5, CSS3, JavaScript, C#, SQL
+Proficient in Languages: Python, HTML5, CSS3, JavaScript, C#, SQL
+
 Tools: Git/GitHub, VSCode, Trello
+
 Testing: pytest, unit testing
+
 Other: JSON, Responsive Web Design, Debugging
 
 ↗️Soft Skills:
 
-Strong problem-solving and debugging skills
-Effective communication, both written and verbal
-Adaptability and teamwork in collaborative environments
-Attention to detail and a focus on quality
-Time management and goal-oriented performance
+- Strong problem-solving and debugging skills
+- Effective communication, both written and verbal
+- Adaptability and teamwork in collaborative environments
+- Attention to detail and a focus on quality
+- Time management and goal-oriented performance
+
+🚀 Projects and Work
+
+Here are some of the projects I've worked on:
+
+- [My First Web Page](https://0j3j8a.github.io/wdd130/wwr/index.html) The first page where I learned the basics of HTML and CSS, with no responsive design. Focused on multiple pages and a simple menu.
+  
+- [JUANCHO'S CASINO](https://github.com/0J3J8A/casino-python) My first Python project on a larger scale, using file reading and writing. It includes a visual interface, not just the Visual Studio Code terminal.
+  
+- [First Game Hub Web Page](https://0j3j8a.github.io/wdd131/project/siteplan.html) A responsive design page, using JSON and JavaScript. Focused on having multiple pages with a user-friendly structure.
+  
+- [Second Game Hub Web Page](https://0j3j8a.github.io/wdd231/project/siteplan.html) An improved version of the previous project, adding more information through JSON and aiming for more interactive moments with the user.
 
 📊 GitHub Stats
 
@@ -49,10 +64,9 @@ Time management and goal-oriented performance
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0J3J8A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ❤️Let's Connect!
 
 Here is my [LinkedIn](https://www.linkedin.com/in/juan-jose-aguirre-9b2a1b350) profile.
-
-
 
 Feel free to explore my repositories, contribute to projects, or reach out if you'd like to collaborate or chat. Happy coding! 🚀
