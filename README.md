@@ -60,9 +60,6 @@ Here are some of the projects I've worked on:
 
 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0J3J8A&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
 
 ❤️Let's Connect!
 
